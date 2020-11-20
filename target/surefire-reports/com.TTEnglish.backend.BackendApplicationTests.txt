@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.TTEnglish.backend.BackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.621 s <<< FAILURE! - in com.TTEnglish.backend.BackendApplicationTests
+initializationError(com.TTEnglish.backend.BackendApplicationTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
